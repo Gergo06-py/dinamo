@@ -41,3 +41,31 @@ a {
   text-decoration: none;
   color: black;
 }
+
+p{
+  text-align: justify;
+  text-indent: 30px;
+  line-height: 110%;
+}
+
+.jobbra{
+  float:right;
+  
+}
+
+.eletrajz{
+  font-size: 80%;
+  background-color: #6f6f6f;
+  color:white;
+  padding:10px;
+}
+
+.tartalom{
+  max-width: 870px;
+  margin:0 auto;
+  margin-top: 40px;
+}
+
+.tartalom:hover{
+  cursor:pointer;
+}
